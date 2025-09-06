@@ -32,6 +32,9 @@ The dataset used in this project was obtained from **Kaggle** (Blinkit Grocery S
 - **Customer Insights**: Average ratings & product visibility analysis  
 
 ---
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/rohitsaha91/)
+---
 
 ## 🖼️ Dashboard Preview
-![Blinkit Dashboard](312d7a8d-2649-4cda-b1fa-884aa500d33f.png)
+![Blinkit Dashboard](https://github.com/irohitsaha/Blinkit-Grocery-Sales-Dashboard/blob/main/BlinkIT_Dashboard.png)
+
